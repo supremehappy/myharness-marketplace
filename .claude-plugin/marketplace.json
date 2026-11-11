@@ -1,0 +1,14 @@
+{
+  "name": "myharness-marketplace",
+  "owner": {
+    "name": "myharness"
+  },
+  "plugins": [
+    {
+      "name": "myharness",
+      "source": "./plugins/myharness",
+      "description": "라운드 단위 개발 하네스: 검증·정리 에이전트, 위험 명령 차단 Hook, 라운드 종료 스킬",
+      "version": "0.1.0"
+    }
+  ]
+}
